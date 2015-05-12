@@ -1,6 +1,6 @@
 {
   "name": "nstall",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Install a local node.js/io.js",
   "main": "index.js",
   "scripts": {
